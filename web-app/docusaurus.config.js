@@ -103,7 +103,7 @@ const config = {
             title: 'About Us',
             items: [
               {
-                label: 'Modules',
+                label: 'About',
                 to: '/docs/about',
               },
             ],
