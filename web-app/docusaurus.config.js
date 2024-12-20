@@ -104,7 +104,7 @@ const config = {
             items: [
               {
                 label: 'Modules',
-                to: '/docs/lab',
+                to: '/docs/about',
               },
             ],
           },
