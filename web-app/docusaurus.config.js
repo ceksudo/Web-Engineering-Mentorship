@@ -100,7 +100,7 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Courses',
+            title: 'About Us',
             items: [
               {
                 label: 'Modules',
