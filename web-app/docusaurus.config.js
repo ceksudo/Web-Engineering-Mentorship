@@ -126,8 +126,8 @@ const config = {
                 to: '/blog',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/ceksudo',
+                label: 'Open Source on GitHub',
+                href: 'https://github.com/ceksudo/Web-Engineering-Mentorship',
               },
             ],
           },
