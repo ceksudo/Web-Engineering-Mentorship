@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Welcome to Web Engineering Mentorship Program',
-  tagline: 'Mentorship Training in Software Development focusing on Web Engineering for building software systems',
+  tagline: 'The Software Construction Paths that transform you into Web Application Software Development Engineer. ',
   favicon: 'img/icon.ico',
 
   // Set the production url of your site here
